@@ -910,8 +910,8 @@ fix viewing the walkbang target when they rejoin
 	end
 
 	SendNotification("Walkbang","Hover your mouse over a player and press B to walkbang, press B again to cancel.",8)
-	SendNotification("This script was made by ches","Have fun!",15)
-
+	SendNotification("This script was made by ches","Have fun! discord.gg/GnX4dQkhnD",15)
+		
 	-- Enable RealismPause Button
 	SettingsFrame.SettingsList.RealismPauseTextLabel.TextButton.Style = RealismPause and Enum.ButtonStyle.RobloxRoundDefaultButton or Enum.ButtonStyle.RobloxRoundButton
 	SettingsFrame.SettingsList.RealismPauseTextLabel.TextButton.Text = not RealismPause and "False" or "True"
