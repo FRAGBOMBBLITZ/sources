@@ -11,6 +11,8 @@ Y8   I8I   88 88~~~88 88      88`8b   88~~~b. 88~~~88 88 V8o88 88  ooo
 To walkbang a player, hover over them and press B to toggle, or use the GUI.
 Script by Ches / @FRAGBOMBBLITZ, have fun!                                                   
 
+Discord Server: https://discord.gg/GnX4dQkhnD
+
 ]=]
 
 -- Instances: 35 | Scripts: 1 | Modules: 0 | Tags: 0
